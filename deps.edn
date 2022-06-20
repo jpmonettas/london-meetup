@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :deps {com.github.jpmonettas/flow-storm-dbg  {:mvn/version "2.2.114"}
+        com.github.jpmonettas/flow-storm-inst {:mvn/version "2.2.114"}
+        quil/quil                             {:mvn/version "3.1.0"}
+        org.clojure/data.codec                {:mvn/version "0.1.1"}}}
